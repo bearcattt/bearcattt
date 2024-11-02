@@ -1,13 +1,13 @@
+Hello, Im bearcat!
 
-Hi, im bearcat.
+- 13 yo
+- A wannabe web developer
+- Owner of [Lunar Proxy](https://github.com/lunar-proxy/lunar)
+- A cat lover 3>
 
-A 13yo verified cat lover & a guy learning web development
 
-also owner of [Lunar Proxy](https://github.com/Lunar-Proxy/Lunar/tree/main)
+  # Socials
+  Discord - Bearcatttt
+  
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ortccux76qdx7spum3fkd33j5e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ortccux76qdx7spum3fkd33j5e&redirect=true)
 
-
-# Contacts
-
-If you need anything you can contact me on discord at bearcatttt.
-
-Thanks for viewing my profile! C:
