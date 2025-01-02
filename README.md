@@ -6,8 +6,4 @@ Hello, Im bearcat!
 - A cat lover 3>
 
 
-  # Socials
-  Discord - Bearcatttt
-  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ortccux76qdx7spum3fkd33j5e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ortccux76qdx7spum3fkd33j5e&redirect=true)
-
+https://lanyard-profile-readme.vercel.app/api/721017166652244018?theme=dark&bg=4f476b&animated=true&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/721017166652244018)
