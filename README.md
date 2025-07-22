@@ -1,9 +1,12 @@
-Hello, Im bearcat!
+## Hi, I'm Bearcat!  
+13 y/o web developer | Cat lover
 
-- 13 yo
-- A web developer
-- Owner of [Lunar Proxy](https://github.com/lunar-proxy/lunar-v1)
-- A cat lover 3>
+I am always going crazy
 
+### Skills
+- Frontend: HTML, CSS, JavaScript, Typescript, TailwindCSS
+- Frameworks: Astro, React (a bit), and more   
+
+### Discord  
 [![Discord Presence](https://lanyard.cnrad.dev/api/997203884428767282?showDisplayName=false&theme=dark)](https://discord.com/users/997203884428767282)
 
