@@ -1,5 +1,5 @@
 ## Hi, I'm Bearcat!  
-13 y/o web developer | Cat lover
+14 y/o web developer | Cat lover
 
 I am always going crazy
 
