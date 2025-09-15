@@ -1,7 +1,7 @@
 ## Hi, I'm Bearcat!  
-14 y/o web developer | Cat lover
+14 y/o full stack dev
 
-I am always going crazy
+doing dumb shit 🔥
 
 ### Skills
 - Frontend: HTML, CSS, JavaScript, Typescript, TailwindCSS
